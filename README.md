@@ -1,0 +1,1 @@
+This project is a web application that utilizes Google GenerativeAI to predict content based on a user's question and an optional uploaded file. Users can submit a question and upload a text file (.txt), CSV file (.csv), PDF document (.pdf), or docx document (.docx) for the model to consider when generating content.
