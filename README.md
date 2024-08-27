@@ -33,8 +33,6 @@ Start the backend server:
 uvicorn main:app --reload
 Use code with caution.
 
-The frontend application is a basic React application and is not included in this repository. You can develop your own frontend to interact with the backend API at 
-
 http://localhost:8000/predict
 Using the Google GenerativeAI API
 
